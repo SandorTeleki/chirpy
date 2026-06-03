@@ -1,7 +1,6 @@
 # Chirpy
 
-A Twitter-like API server built with Express, TypeScript, Drizzle ORM, and PostgreSQL. Based on the Boot.dev course [Learn HTTP Servers in TypeScript
-](https://www.boot.dev/courses/learn-http-servers-typescript).
+A Twitter-like API server built with Express, TypeScript, Drizzle ORM, and PostgreSQL. Based on the Boot.dev course [Learn HTTP Servers in TypeScript](https://www.boot.dev/courses/learn-http-servers-typescript).
 
 ## Prerequisites
 
